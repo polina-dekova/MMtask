@@ -1,0 +1,10 @@
+C:\Users\polly\source\repos\MentorMateTask\MentorMateTask\bin\Debug\mmtask.json
+C:\Users\polly\source\repos\MentorMateTask\MentorMateTask\bin\Debug\MentorMateTask.exe.config
+C:\Users\polly\source\repos\MentorMateTask\MentorMateTask\bin\Debug\MentorMateTask.exe
+C:\Users\polly\source\repos\MentorMateTask\MentorMateTask\bin\Debug\MentorMateTask.pdb
+C:\Users\polly\source\repos\MentorMateTask\MentorMateTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\polly\source\repos\MentorMateTask\MentorMateTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\polly\source\repos\MentorMateTask\MentorMateTask\obj\Debug\MentorMateTask.csproj.CopyComplete
+C:\Users\polly\source\repos\MentorMateTask\MentorMateTask\obj\Debug\MentorMateTask.exe
+C:\Users\polly\source\repos\MentorMateTask\MentorMateTask\obj\Debug\MentorMateTask.pdb
+C:\Users\polly\source\repos\MentorMateTask\MentorMateTask\obj\Debug\MentorMateTask.csprojAssemblyReference.cache
